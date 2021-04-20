@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/stefano.contento/Documents/GitHub/MLOPS/Corso_MLOps/mlruns/0/98a31814cf6b428d865a354b46bf306e/artifacts
+end_time: 1618910268060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 98a31814cf6b428d865a354b46bf306e
+run_uuid: 98a31814cf6b428d865a354b46bf306e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1618910263083
+status: 3
+tags: []
+user_id: Stefano.Contento
